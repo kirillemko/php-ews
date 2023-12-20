@@ -1,19 +1,18 @@
 {
-  "name": "php-ews/php-ews",
+  "name": "kirillemko/php-ews",
   "description": "Library for communicating with Exchange Web Services.",
   "homepage": "http://jamesarmes.com/php-ews/",
   "license": "MIT",
   "authors": [
     {
-      "name": "James Armes",
-      "email": "jamesiarmes@gmail.com"
+      "name": "Kirill Emelianenko",
+      "email": "kirill.emko@mail.ru"
     }
   ],
   "prefer-stable": true,
   "require": {
     "php": ">=7.1.0",
-    "ext-soap": "*",
-    "jamesiarmes/php-ntlm": "~1.0"
+    "kirillemko/php-ntlm": "*"
   },
   "require-dev": {
     "mustache/mustache": "~2.0",
