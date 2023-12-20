@@ -5,7 +5,7 @@
 
 namespace jamesiarmes\PhpEws;
 
-use \jamesiarmes\PhpNtlm\SoapClient;
+use \kirillemko\PhpNtlm\SoapClient;
 
 /**
  * Base class of the Exchange Web Services application.
